@@ -1,5 +1,0 @@
-train: ini_dataset/train/images
-val: ini_dataset/valid/images
-
-nc: 19
-names: ['airport_tax', 'allow', 'bottom_one', 'bottom_two', 'carrier', 'class', 'date', 'fare', 'fare_basis', 'flight', 'fuel_subcharge', 'id', 'insurance', 'name', 'other_tax', 'serial_num', 'terminal', 'time', 'total']
